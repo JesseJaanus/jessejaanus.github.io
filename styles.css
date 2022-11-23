@@ -1,0 +1,94 @@
+body { 
+	min-height: 100vh; 
+}
+
+.col-md-7 {
+	padding-left: 5em;
+}
+
+.order-md-2 {
+	padding-right: 10em;
+	padding-left: 5em;
+}
+
+
+#kuva4 {
+	border-radius: 50%;
+}
+
+#kuva5 {
+	padding-left: 5em;
+	border-radius: 50%;
+}
+
+#kuva6 {
+	border-radius: 50%;
+}
+
+#kuva7 {
+	padding-left: 5em;
+	border-radius: 50%;
+}
+
+#kuva8 {
+	border-radius: 50%;
+}
+
+#kuva9 {
+	padding-left: 5em;
+	border-radius: 50%;
+}
+
+td, th {
+  border: 2px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  
+}
+
+tr:nth-child(even) {
+background-color: #dddddd;
+}
+
+#kappaleotsikko {
+	padding-left: 2em;
+	font-family: arial, sans-serif;
+}
+
+#taulukko1 {  
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	width: 85%;
+	border: 1px solid;
+	box-shadow: 5px 10px 18px green;
+}	
+
+#taulukko2 { 
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	width: 85%;
+	border: 1px solid;
+	box-shadow: 5px 10px 18px orange;
+}
+
+#taulukko3 {  
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	width: 85%;
+	border: 1px solid;
+	box-shadow: 5px 10px 18px blue;
+}
+
+.my-4 {
+	background-color: white;
+}
+
+.nav-item {
+	color: white;
+	font-size: 20px;
+}
+
+#spotify {
+	width: 100%;
+	border-radius: 12px;
+}
